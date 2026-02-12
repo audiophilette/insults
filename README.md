@@ -20,7 +20,7 @@ Plastic skillet\
 Cardboard shovel\
 Insulated frying pan\
 amnesiac memory foam pillow\
-Biodegradable Tupperware\\
+Biodegradable Tupperware\
 Styrofoam Hammer
 
 ## Biological
