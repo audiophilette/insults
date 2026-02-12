@@ -20,7 +20,8 @@ Plastic skillet\
 Cardboard shovel\
 Insulated frying pan\
 amnesiac memory foam pillow\
-Biodegradable Tupperware\
+Biodegradable Tupperware\\
+Styrofoam Hammer
 
 ## Biological
 A walking endoplasmic reticulum stress response\
