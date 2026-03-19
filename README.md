@@ -32,5 +32,9 @@ An overripe mitochondrion leaking reactive oxygen species\
 A sloshing lysosome on the verge of autolysis\
 An apoptotic body that forgot to get phagocytosed.\
 Bradyzoite\
-Sack of demyelinated synapses
+Sack of demyelinated synapses\
+Mid-division spindle assembly checkpoint failure\
+Telomere that hit the Hayflick limit early\
+A neuron in excitotoxic overload
+
 
