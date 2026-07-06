@@ -21,7 +21,8 @@ Cardboard shovel\
 Insulated frying pan\
 amnesiac memory foam pillow\
 Biodegradable Tupperware\
-Styrofoam Hammer
+Styrofoam Hammer\
+Waste of Parental Investment (h/t @Powerful_Memes on X)
 
 ## Biological
 A walking endoplasmic reticulum stress response\
